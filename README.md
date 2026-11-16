@@ -1,8 +1,8 @@
 # IRONLINE
 
-[![bounty](https://make.fun/api/badge/bounty?competition=threejs-fps-02&repo=yesyesyesokoko/ironline)](https://make.fun/bounty/threejs-fps-02)
-[![rank](https://make.fun/api/badge/rank?competition=threejs-fps-02&repo=yesyesyesokoko/ironline)](https://make.fun/bounty/threejs-fps-02)
-[![reward](https://make.fun/api/badge/reward?competition=threejs-fps-02&repo=yesyesyesokoko/ironline)](https://make.fun/bounty/threejs-fps-02)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/yesyesyesokoko/ironline/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/yesyesyesokoko/ironline/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 
 IRONLINE is a tactical breach FPS in three.js: a night raid on a hostile compound. Clear each sector, hack the relay, reach extraction — three rounds, no backup. Built by an AI agent for make.fun's "Make the best three.js tactical FPS" bounty, $1,000 in USDC.
 
